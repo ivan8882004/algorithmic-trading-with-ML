@@ -1,0 +1,11 @@
+## Model Info 
+Stock:                     NVR
+num of days of prediction: 8
+LSTM Cells for layer1:     70
+Epoches:                   2
+batch_size:                1
+window for prediction:     60
+---------------------------------------
+## Model Result
+Test set length:           1093
+RMSE:                      107.1226319571974

@@ -1,0 +1,11 @@
+## Model Info 
+Stock:                     CRM
+num of days of prediction: 8
+LSTM Cells for layer1:     70
+Epoches:                   3
+batch_size:                2
+window for prediction:     60
+---------------------------------------
+## Model Result
+Test set length:           754
+RMSE:                      5.750964198101755

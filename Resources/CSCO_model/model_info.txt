@@ -1,0 +1,11 @@
+## Model Info 
+Stock:                     CSCO
+num of days of prediction: 8
+LSTM Cells for layer1:     128
+Epoches:                   2
+batch_size:                1
+window for prediction:     60
+---------------------------------------
+## Model Result
+Test set length:           1056
+RMSE:                      0.8986255475880541

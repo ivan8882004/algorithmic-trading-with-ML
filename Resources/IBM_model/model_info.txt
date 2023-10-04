@@ -1,0 +1,11 @@
+## Model Info 
+Stock:                     IBM
+num of days of prediction: 8
+LSTM Cells for layer1:     256
+Epoches:                   4
+batch_size:                4
+window for prediction:     90
+---------------------------------------
+## Model Result
+Test set length:           1518
+RMSE:                      2.3595823272874568
