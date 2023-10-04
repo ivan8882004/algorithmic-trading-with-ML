@@ -58,5 +58,3 @@ def predict_data(stock, interval, delay):
 
     return predictions
 
-
-print(predict_data("DHI", 40, 8))
